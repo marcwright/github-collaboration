@@ -1,1 +1,1 @@
-edems reame is better
+edems readme is better
