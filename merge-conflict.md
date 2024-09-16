@@ -1,1 +1,1 @@
-This is marc's merge conflict markdown file.
+creating marcs readme file for him:
